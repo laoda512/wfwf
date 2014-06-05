@@ -1,0 +1,1 @@
+Cloud code project for 未来闹钟. https://cn.avoscloud.com/docs/cloud_code_guide.html
